@@ -1323,7 +1323,9 @@ StrikeSuit Gift RAR File
 
 MD5: 2cac346547f90788e731189573828c53
 SHA256: 66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422
+
 [See it in Malshare](https://malshare.com/sample.php?action=detail&hash=66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422)
+
 [See it in VT](https://www.virustotal.com/gui/file/66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422/submissions)
 
 ## Links and References
