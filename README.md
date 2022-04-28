@@ -1319,14 +1319,12 @@ Look, it’s kind of a pain to give all the atomic indicators to you in a way th
 
 If you want to take a gander at the StrikeSuit Gift tooling, we provide links below. Jump in and get dirty! Looking at the source code is fun and instructive. If you are an intelligence analyst and trying to play the game of connect the dots for purposes of attribution, we recommend you start with the main StrikeSuit Gift RAR file and do your own hashing and IOC extraction from there.
 
-StrikeSuit Gift RAR File
+### StrikeSuit Gift RAR File
 
-MD5: 2cac346547f90788e731189573828c53
-SHA256: 66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422
-
-[See it in Malshare](https://malshare.com/sample.php?action=detail&hash=66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422)
-
-[See it in VT](https://www.virustotal.com/gui/file/66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422/submissions)
+- MD5: 2cac346547f90788e731189573828c53
+- SHA256: 66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422
+- [See it in Malshare](https://malshare.com/sample.php?action=detail&hash=66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422)
+- [See it in VT](https://www.virustotal.com/gui/file/66b58b2afd274591fb8caf2dbfcf14d9c9bcf48d6c87e8df2db30cdefb0d1422/submissions)
 
 ## Links and References
 
